@@ -121,7 +121,7 @@ header {
 
 .label {
     position: absolute;
-    bottom: 20px;
+    bottom: 0px;
     left: 15px;
     height: 60px;
     line-height: 60px;
