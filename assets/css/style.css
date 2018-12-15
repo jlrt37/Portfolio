@@ -172,6 +172,7 @@ input {
     text-decoration: none;
 }
 .socialIcon {
+    border-radius: 50%;
     width: 60px;
     height: 60px;
 }
@@ -185,6 +186,7 @@ input {
 }
 
 #gitHubIconBlack {
+    border-radius: 50%;
     background-image: url("images/icon/github_black.png");
     background-size: contain;
     transition: opacity .3s ease;
@@ -200,6 +202,7 @@ input {
 }
 
 #linkedinIconBlack {
+    border-radius: 50%;
     background-image: url("images/icon/linkedin_black.png");
     background-size: contain;
     transition: opacity .3s ease;
